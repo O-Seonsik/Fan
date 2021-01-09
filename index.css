@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img{
+    width: 357px;
+    height: 500px;
+}
+
+img:hover{
+    cursor: pointer;
+}
